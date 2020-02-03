@@ -1,2 +1,4 @@
 # -Brain-Tumor-Classification-Using-Deep-Learning-Algorithms
-BE Project
+Problem Definition: 
+To Detect and Classify Brain Tumor using CNN and ANN as an asset of Deep Learning and to examine the change of the tumor size.
+
