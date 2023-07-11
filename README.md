@@ -4,7 +4,7 @@
     <img src="https://github.com/SartajBhuvaji/Brain-Tumor-Classification-Using-Deep-Learning-Algorithms/blob/master/ReadMe_files/MRI-animinated.gif" alt="logo" width="125" height="125">
   </a>
 
-<h3 align="center">Brain-Tumor-Classification-Using-Deep-Learning-Algorithms</h3>
+<h3 align="center">Brain Tumor Classification Using Deep Learning Algorithms</h3>
 
   <p align="center">
     SPPU
