@@ -19,7 +19,8 @@
     
     Problem Definition
     
-    To Detect and Classify Brain Tumors using CNN and ANN as an asset of Deep Learning and to examine the position of the tumor.
+    To Detect and Classify Brain Tumors using CNN and TL. 
+    
   </p>
 </div>
 
