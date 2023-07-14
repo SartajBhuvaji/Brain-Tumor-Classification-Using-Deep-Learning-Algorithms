@@ -49,6 +49,14 @@ Dataset: [Kaggle](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-clas
   </a>
   </div>
 
+## Contributing to the project:
+
+*   Fork the [Master Branch](https://github.com/SartajBhuvaji/Brain-Tumor-Classification-Using-Deep-Learning-Algorithms)
+*   Clone your branch
+*   If you want to contribute by adding your classification model, create a new folder inside ```Contributions/Your_Name```
+*   Make sure to add a detailed README File.
+
+
 
 ##  Related Repositories:
 * [Data Set](https://https://github.com/SartajBhuvaji/Brain-Tumor-Classification-DataSet/)
