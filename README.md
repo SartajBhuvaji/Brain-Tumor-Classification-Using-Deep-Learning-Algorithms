@@ -42,7 +42,7 @@ In this project, we propose comparative studies of various deep learning models 
 
 ## Demo
 <div align="center">
-<img src="https://github.com/SartajBhuvaji/Brain-Tumor-Classification-Using-Deep-Learning-Algorithms/blob/master/ReadMe_files/BE%20Project%20demo.gif" alt="logo" width="50%" height="450">
+<img src="https://github.com/SartajBhuvaji/Brain-Tumor-Classification-Using-Deep-Learning-Algorithms/blob/master/ReadMe_files/BE%20Project%20demo.gif" alt="logo" width="100%" height="450">
 </div> 
 
 ## DataSet
