@@ -71,3 +71,10 @@ Dataset: [Kaggle](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-clas
 * [Kaggle](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri)
 * [Medium Article](https://medium.com/@sartajbhuvaji/brain-tumor-classification-546a72d4103b)
 
+##
+<div>
+  
+[![Python 3.7](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/downloads/release/python-370/)
+
+</div>
+
