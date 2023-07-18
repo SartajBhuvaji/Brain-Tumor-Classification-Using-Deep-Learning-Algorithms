@@ -71,6 +71,10 @@ Dataset: [Kaggle](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-clas
 * [Kaggle](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri)
 * [Medium Article](https://medium.com/@sartajbhuvaji/brain-tumor-classification-546a72d4103b)
 
+
+## Other Collaborators
+* [Fatih Sen](https://github.com/VishweshSalodkar)
+* [Vishwesh Salodkar](https://github.com/VishweshSalodkar)
 ##
 <div>
   
