@@ -73,6 +73,7 @@ Dataset: [Kaggle](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-clas
 
 
 ## Other Collaborators
+* [Aditya Patil](https://github.com/Adityathere)
 * [Fatih Sen](https://github.com/fatihsen20)
 * [Vishwesh Salodkar](https://github.com/VishweshSalodkar)
 ##
