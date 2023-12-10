@@ -65,6 +65,7 @@ Dataset: [Kaggle](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-clas
 
 ##  Related Repositories:
 * [Data Set](https://github.com/SartajBhuvaji/Brain-Tumor-Classification-DataSet/)
+* [HuggingFace](https://huggingface.co/datasets/sartajbhuvaji/Brain-Tumor-Classification)
 * [Website](https://sartajbhuvaji.github.io/Brain-Tumor-Classification-Website/) 
 * [Primary Repo](https://github.com/SartajBhuvaji/Brain-Tumor-Classification-Using-Deep-Learning-Algorithms/tree/master) 
 * [Runner](https://github.com/SartajBhuvaji/Brain-Tumor-Classification-Using-Deep-Learning-Algorithms-Runner)
