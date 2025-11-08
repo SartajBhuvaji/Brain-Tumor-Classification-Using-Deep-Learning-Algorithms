@@ -72,6 +72,10 @@ Dataset: [Kaggle](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-clas
 * [Kaggle](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri)
 * [Medium Article](https://medium.com/@sartajbhuvaji/brain-tumor-classification-546a72d4103b)
 
+## Citations:
+* @article{kadam2021brain, title={Brain tumor classification using deep learning algorithms}, author={Kadam, Ankita and Bhuvaji, Sartaj and Deshpande, Sujit}, journal={Int. J. Res. Appl. Sci. Eng. Technol}, volume={9}, pages={417--426}, year={2021} }
+
+* @article{bhuvaji2020brain, title={Brain tumor classification (MRI)}, author={Bhuvaji, Sartaj and Kadam, Ankita and Bhumkar, Prajakta and Dedge, Sameer and Kanchan, Swati}, journal={Kaggle}, volume={10}, year={2020} }
 
 ## Other Collaborators
 * [Aditya Patil](https://github.com/Adityathere)
@@ -83,4 +87,3 @@ Dataset: [Kaggle](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-clas
 [![Python 3.7](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/downloads/release/python-370/)
 
 </div>
-
